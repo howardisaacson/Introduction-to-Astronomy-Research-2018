@@ -1,4 +1,4 @@
-## Who needs a reading list:
+## Who needs a reading list? You do!:
 Astronomers conduct much of their reading online, but a good collection of books is always nice to have. 
 
 * Astronomy
@@ -7,7 +7,9 @@ Astronomers conduct much of their reading online, but a good collection of books
   * Exoplanets book.
   * Protostars and Planets
   * Exoplanet Atmospheres Review:
-    *    https://ui.adsabs.harvard.edu/#abs/2018arXiv180408149F/abstract
+    * https://ui.adsabs.harvard.edu/#abs/2018arXiv180408149F/abstract
+  * Planet formation of Super Earths, Review:
+    * https://ui.adsabs.harvard.edu/#abs/2018arXiv180203090S/abstract
 
 * Statistics
 
