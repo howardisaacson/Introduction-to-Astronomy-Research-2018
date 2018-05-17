@@ -11,8 +11,8 @@ Astronomers conduct much of their reading online, but a good collection of books
 
 * Statistics
 
-Bevington
+  * Bevington
 
 * Data Analysis and Tools
 
-Python analysis book.
+  * Python analysis book.
