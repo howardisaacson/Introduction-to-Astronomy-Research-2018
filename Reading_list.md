@@ -14,6 +14,8 @@ Astronomers conduct much of their reading online, but a good collection of books
 * Statistics
 
   * Bevington
+  * Baysian Statistics in Astronomy
+    * https://ui.adsabs.harvard.edu/#abs/2017ARA&A..55..213S/abstract
 
 * Data Analysis and Tools
 
