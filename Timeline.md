@@ -8,6 +8,7 @@ Papers
 ADS experience (Building a library of papers)
 Overleaf/Sharelatex (make a CV) ( research paper: later)
 Effective Paper Reading
+How to write a professional email.
 
 ## Week 2
 R 
