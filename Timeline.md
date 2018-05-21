@@ -19,6 +19,7 @@ Jupyter labs
 
     Numpy, Pandas, Gspread, reading in files, plotting (data discovery, bokeh), radvel,.
     Start planet fitting with fitting a sin wave, move to radvel
+    Plotting: linear vs log space
 
 
 ## Week 3
