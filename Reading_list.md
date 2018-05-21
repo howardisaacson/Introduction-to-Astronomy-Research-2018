@@ -6,6 +6,8 @@ Astronomers conduct much of their reading online, but a good collection of books
   * Exoplanet Atmospheres (Seager)		
   * Exoplanets book.
   * Protostars and Planets
+  * Small Exoplanets Occurrence and Envelope Structure(concise Review)
+    * https://arxiv.org/abs/1404.2960
   * Exoplanet Atmospheres Review:
     * https://ui.adsabs.harvard.edu/#abs/2018arXiv180408149F/abstract
   * Planet formation of Super Earths, Review:
