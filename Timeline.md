@@ -52,10 +52,10 @@ High Resolution Spectra
 
 ## Week 9
 SETI, Voyager tutorial.   
-
+Begin Final Project: Research Proposal
 
 ## Week 10
-Final Project of some sort
+Final Project: Research proposal.
 
 
 
