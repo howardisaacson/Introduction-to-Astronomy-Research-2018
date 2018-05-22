@@ -1,4 +1,4 @@
-# Week 1
+# Week 1 (Group Leader: Howard)
 * GitHub: Version Control, Cloning, Branching, Forking
 * Unix primer: (cd, ls, ssh, emacs) (Google cloud instance)
 * Coding programs: textwrangler, PyCharm, more?
@@ -24,20 +24,23 @@ Jupyter labs
 
 
 ## Week 3
- Download Kepler data (K2, TESS).
- GAIA and SQL interface (online Astronomy Archives)
-  Distances,  Astronometry, Stellar Parameters
- NASA Exoplanet Archive
+ * Download Kepler data (K2, TESS).
+ * GAIA and SQL interface (online Astronomy Archives)
+   * Distances,  Astronometry, Stellar Parameters
+ * NASA Exoplanet Archive
+   * Download all of the Kepler transiting planets
+      * Make histogram of planet radii
+      * Make Orbital period vs Planet Radius plot
 
 ## Week 4
- Radvel:
- Beyond the radvel tutorial, do better to explain what is going on. (Ruben)
- Add more comments about basic python usage.
+ * Radvel:
+ * Beyond the radvel tutorial, do better to explain what is going on. (Ruben)
+ * Add more comments about basic python usage.
 
+## Week 5 (Group Leader: Alma)
+ * Build a website (maybe include a database, bottle, flask) 
+ * What belongs on an academic website. (Heather Knutson). 
 
-## Week 5
-Build a website (maybe include a database) Tell them what belongs on an academic website. (Heather Knutson). Think of more important details. (++)
-    Alma volunteered for that one.
 
 ## Week 6
  Cross correlation: Auto-correlation
