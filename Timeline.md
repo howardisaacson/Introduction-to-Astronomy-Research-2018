@@ -3,6 +3,7 @@
 * Unix primer: (cd, ls, ssh, emacs) (Google cloud instance)
 * Coding programs: textwrangler, PyCharm, more?
 ## Accounts needed:
+  * Github
   * Google Drive (general gmail account)
   * DropBox
   * Papers and/or ADS experience (Building a library of papers)
