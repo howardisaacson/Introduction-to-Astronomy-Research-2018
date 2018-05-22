@@ -1,14 +1,14 @@
-## Week 1
-GitHub: Version Control, Cloning, Branching, Forking
-Unix primer: (cd, ls, ssh, emacs) (Google cloud instance)
-Coding programs: textwrangler, PyCharm, more?
-Google Drive
-DropBox
-Papers
-ADS experience (Building a library of papers)
-Overleaf/Sharelatex (make a CV) ( research paper: later)
-Effective Paper Reading
-How to write a professional email.
+# Week 1
+* GitHub: Version Control, Cloning, Branching, Forking
+* Unix primer: (cd, ls, ssh, emacs) (Google cloud instance)
+* Coding programs: textwrangler, PyCharm, more?
+## Accounts needed:
+  * Google Drive (general gmail account)
+  * DropBox
+  * Papers and/or ADS experience (Building a library of papers)
+  * Effective Paper Reading
+  * How to write a professional email.
+  * Make sure everyone has python installed.
 
 ## Week 2
 R 
@@ -23,15 +23,15 @@ Jupyter labs
 
 
 ## Week 3
-Download Kepler data (K2, TESS).
-GAIA and SQL interface (online Astronomy Archives)
+ Download Kepler data (K2, TESS).
+ GAIA and SQL interface (online Astronomy Archives)
   Distances,  Astronometry, Stellar Parameters
-NASA Exoplanet Archive
+ NASA Exoplanet Archive
 
 ## Week 4
-Radvel:
-Beyond the radvel tutorial, do better to explain what is going on. (Ruben)
-Add more comments about basic python usage.
+ Radvel:
+ Beyond the radvel tutorial, do better to explain what is going on. (Ruben)
+ Add more comments about basic python usage.
 
 
 ## Week 5
@@ -39,11 +39,12 @@ Build a website (maybe include a database) Tell them what belongs on an academic
     Alma volunteered for that one.
 
 ## Week 6
-Cross correlation: Auto-correlation
+ Cross correlation: Auto-correlation
 
 ## Week 7
-Statistics:
-median/mean/mode/outlier_rejection/errors in quadrature
+ Statistics:
+ median/mean/mode/outlier_rejection/errors in quadrature
+ Overleaf/Sharelatex (make a CV) ( research paper: later)
 
 ## Week 8
 High Resolution Spectra
