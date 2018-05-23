@@ -55,7 +55,7 @@
   * phase fold to depth of planet, confirm period 
 ### Paper of the week:
 
-## Week 7 ( Group Leader:)
+## Week 7 ( Group Leader: Becky/Sarah)
  *  Statistics:
    * median/mean/mode/outlier_rejection/errors in quadrature
    * Overleaf/Sharelatex 
