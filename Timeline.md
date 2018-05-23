@@ -13,6 +13,7 @@
   * Effective Paper Reading
   * How to write a professional email.
   * Make sure everyone has python installed.
+  * Spyder (Anaconda-Navigator)
 ### Paper of the week:
 
 ## Week 2 (Group Leader: Howard)
@@ -27,7 +28,7 @@
     Plotting: linear vs log space
 ### Paper of the week:
 
-## Week 3 (Group Leader: )
+## Week 3 (Group Leader: Almav)
  * GAIA and SQL interface (online Astronomy Archives)
    * Distances,  Astronometry, Stellar Parameters
  * NASA Exoplanet Archive
@@ -47,17 +48,18 @@
  * What belongs on an academic website. (Heather Knutson). 
 ### Paper of the week:
 
-## Week 6 (Group Leader: )
+## Week 6 (Group Leader: Ruben?)
 * Download Kepler Data:
   * Cross correlation: Auto-correlation
   * Periodogram, identify planet period
   * phase fold to depth of planet, confirm period 
 ### Paper of the week:
 
-## Week 7 ( Group Leader)
+## Week 7 ( Group Leader:)
  *  Statistics:
    * median/mean/mode/outlier_rejection/errors in quadrature
-   *  Overleaf/Sharelatex (make a CV) ( research paper: later)
+   * Overleaf/Sharelatex 
+   * make a CV,  research paper template
 ### Paper of the week:
 
 ## Week 8 (Group Leader: Howard)
