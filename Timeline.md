@@ -11,7 +11,8 @@
   * How to write a professional email.
   * Make sure everyone has python installed.
 
-## Week 2
+
+## Week 2 (Group Leader: Howard)
 R 
 Python
 Ipython
@@ -23,8 +24,7 @@ Jupyter labs
     Plotting: linear vs log space
 
 
-## Week 3
- * Download Kepler data (K2, TESS).
+## Week 3 (Group Leader: )
  * GAIA and SQL interface (online Astronomy Archives)
    * Distances,  Astronometry, Stellar Parameters
  * NASA Exoplanet Archive
@@ -32,7 +32,7 @@ Jupyter labs
       * Make histogram of planet radii
       * Make Orbital period vs Planet Radius plot
 
-## Week 4
+## Week 4 (Group Leader: Sarah)
  * Radvel:
  * Beyond the radvel tutorial, do better to explain what is going on. (Ruben)
  * Add more comments about basic python usage.
@@ -42,25 +42,28 @@ Jupyter labs
  * What belongs on an academic website. (Heather Knutson). 
 
 
-## Week 6
- Cross correlation: Auto-correlation
+## Week 6 (Group Leader: )
+* Download Kepler Data:
+  * Cross correlation: Auto-correlation
+  * Periodogram, identify planet period
+  * phase fold to depth of planet, confirm period 
 
-## Week 7
- Statistics:
- median/mean/mode/outlier_rejection/errors in quadrature
- Overleaf/Sharelatex (make a CV) ( research paper: later)
+## Week 7 ( Group Leader)
+ *  Statistics:
+   * median/mean/mode/outlier_rejection/errors in quadrature
+   *  Overleaf/Sharelatex (make a CV) ( research paper: later)
 
-## Week 8
-High Resolution Spectra
-   examine many Keck/APF spectra: determine resolution 
-   (plot resolution as a function of wavelength)
+## Week 8 (Group Leader: Howard)
+* High Resolution Spectra
+  * examine many Keck/APF spectra: determine resolution 
+  * (plot resolution as a function of wavelength), Use Haynes tutorial as a guide
 
-## Week 9
-SETI, Voyager tutorial.   
-Begin Final Project: Research Proposal
+## Week 9 ( Group Leader: Sarah)
+* SETI, Voyager tutorial.   
+* Begin Final Project: Research Proposal
 
-## Week 10
-Final Project: Research proposal.
+## Week 10 (Group Leader: All)
+* Final Project: Research proposal.
 
 
 
