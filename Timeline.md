@@ -6,10 +6,12 @@
 * Unix primer: (cd, ls, ssh, emacs) (Google cloud instance)
 * Coding programs: textwrangler, PyCharm, more?
 ### Accounts needed:
-  * Github
+  * Github.com
   * Google Drive (general gmail account)
-  * DropBox
+  * DropBox.com
+  * Overleaf.com 
   * Papers and/or ADS experience (Building a library of papers)
+### Other topics:
   * Effective Paper Reading
   * How to write a professional email.
   * Make sure everyone has python installed.
