@@ -30,7 +30,7 @@
     Plotting: linear vs log space
 ### Paper of the week:
 
-## Week 3 (Group Leader: Alma) (week of June 25th)
+## Week 3 (Group Leader: Sarah & Alma) (week of June 25th)
  * GAIA and SQL interface (online Astronomy Archives)
    * Distances,  Astronometry, Stellar Parameters
  * NASA Exoplanet Archive
