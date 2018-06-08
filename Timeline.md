@@ -27,6 +27,7 @@
 
     Numpy, Pandas, Gspread, reading in files, plotting (data discovery, bokeh), radvel,.
     Start planet fitting with fitting a sin wave, move to radvel
+    Astropy, pyephem(advanced)
     Plotting: linear vs log space
 ### Paper of the week:
 
