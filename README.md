@@ -11,6 +11,8 @@ This course is designed to be conducted invidually or in a group setting. In the
 After completion of these tutorials, students will have the skills need to quickly ramp up on new astronomy research projects, without the need to brush up on basic skills. The astronomy skills will be focused on, but not limited to exoplanet topics. Students are encouraged to use these skills to explore other realms of Astronomy
 
 ## The Future of the project:
-   We hope this project becomes self sustaining in such a way that others can contribute and add value to the current set of reserach skills presented here. If you have questions, comments or ideas, please feel free to contact us through the issue tracker on this repo.
+We hope this project becomes self sustaining in such a way that others can contribute and add value to the current set of reserach skills presented here. If you have questions, comments or ideas, please feel free to contact us through the issue tracker on this repo.
    
-   
+## Code of Conduct
+We strive to maintain a welcoming and supportive community for everyone regardless of race, religion, background or identity. Period. For more details, see our Code of Conduct page.
+
