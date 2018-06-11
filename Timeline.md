@@ -12,10 +12,11 @@
   * Overleaf.com 
   * Papers and/or ADS experience (Building a library of papers)
 ### Other topics:
-  * Effective Paper Reading
   * How to write a professional email.
   * Make sure everyone has python installed.
+  * Effective Paper Reading
   * Spyder (Anaconda-Navigator)
+
 ### Paper of the week:
 
 ## Week 2 (Group Leader: Howard) (week of June 18th)
