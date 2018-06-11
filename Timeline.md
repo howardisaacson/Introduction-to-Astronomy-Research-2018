@@ -4,7 +4,7 @@
 ## Week 1 (Group Leader: Howard) (week of June 11th)
 * GitHub: Version Control, Cloning, Branching, Forking
 * Unix primer: (cd, ls, ssh, emacs) (Google cloud instance)
-* Coding programs: textwrangler, PyCharm, more?
+* Coding programs: Textwrangler, PyCharm, or Atom.
 ### Accounts needed:
   * Github.com
   * Google Drive (general gmail account)
