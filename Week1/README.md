@@ -9,8 +9,9 @@
 ## Assignments for Week 1.
 
 ### If you have not already:
- * Be sure to obtain all of the appropriate accounts listed on Timeline page. 
+ * Be sure to obtain all of the appropriate accounts listed on Timeline page. Update "Attendance and Progress" Google Doc.
  * Ensure that you have a working version of Python installed on your computer.
+ * Finish writing your goals for this program if you did not finish during the session.
 
 ### Complete the Data Carpentry workshop on the Unix command shell
 The Unix shell is the basis for scientific computing. By mastering shell commands you will save 
