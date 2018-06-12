@@ -34,6 +34,8 @@ Astronomers conduct much of their reading online, but a good collection of books
     * https://ui.adsabs.harvard.edu/#abs/2017ApJ...836...77Y/abstract
   * "HAT-P-11: Discovery of a Second Planet and a Clue to Understanding Exoplanet Obliquities" CalTech UG: Samuel Yee
     * "https://ui.adsabs.harvard.edu/#abs/2018AJ....155..255Y/abstract  
+  * "Orbits for the Impatient: a Bayesian Rejection-sampling Method for Quickly Fitting the Orbits of Long-period Exoplanets" Brown UG: Sarah Blunt
+    * http://adsabs.harvard.edu/abs/2017AJ....153..229B/abstract
     
 
   
