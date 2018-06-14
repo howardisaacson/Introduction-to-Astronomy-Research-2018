@@ -1,9 +1,19 @@
 README:
 
-Software carpentry: 
+Software Carpentry, More Python:
+http://swcarpentry.github.io/python-novice-gapminder/
 
-Git  
-http://swcarpentry.github.io/git-novice/
+Astropy:
+http://www.astropy.org
 
-Python:  
-http://swcarpentry.github.io/python-novice-inflammation/
+Numpy:
+http://www.numpy.org
+
+Scipy:
+https://scipy.org
+
+Matplotlib:
+https://matplotlib.org/tutorials/introductory/sample_plots.html#sphx-glr-tutorials-introductory-sample-plots-py
+
+Pandas:
+http://pandas.pydata.org/pandas-docs/stable/10min.html
