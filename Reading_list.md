@@ -12,6 +12,8 @@ Astronomers conduct much of their reading online, but a good collection of books
     * https://ui.adsabs.harvard.edu/#abs/2018arXiv180408149F/abstract
   * Planet formation of Super Earths, Review:
     * https://ui.adsabs.harvard.edu/#abs/2018arXiv180203090S/abstract
+  * Exoplanet Atomospheres at High Resolution
+    * https://arxiv.org/pdf/1806.04617.pdf
 
 * Statistics
 
