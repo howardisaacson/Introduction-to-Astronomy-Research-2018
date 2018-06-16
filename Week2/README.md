@@ -17,3 +17,6 @@ https://matplotlib.org/tutorials/introductory/sample_plots.html#sphx-glr-tutoria
 
 Pandas:
 http://pandas.pydata.org/pandas-docs/stable/10min.html
+
+Paper of the week:
+https://arxiv.org/pdf/1404.2960.pdf
