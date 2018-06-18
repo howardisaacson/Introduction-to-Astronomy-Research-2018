@@ -53,21 +53,21 @@
  * What belongs on an academic website. (Heather Knutson). 
 ### Paper of the week:
 
-## Week 6 (Group Leader: Ruben?) (week of July 16th)
+## Week 6 (Group Leader: Isabel) (week of July 16th)
 * Download Kepler Data:
   * Cross correlation: Auto-correlation
   * Periodogram, identify planet period
   * phase fold to depth of planet, confirm period 
 ### Paper of the week:
 
-## Week 7 ( Group Leader: Becky/Sarah) (week of July 23rd)
+## Week 7 ( Group Leader: Becky/Sarah/Isabel) (week of July 23rd)
  *  Statistics:
    * median/mean/mode/outlier_rejection/errors in quadrature
    * Overleaf/Sharelatex 
    * make a CV,  research paper template
 ### Paper of the week:
 
-## Week 8 (Group Leader: Howard) (week of July 30th)
+## Week 8 (Group Leader: Howard/Isabel) (week of July 30th)
 * High Resolution Spectra
   * examine many Keck/APF spectra: determine resolution 
   * (plot resolution as a function of wavelength), Use Haynes tutorial as a guide
