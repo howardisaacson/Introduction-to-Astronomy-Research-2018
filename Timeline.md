@@ -46,6 +46,13 @@ https://arxiv.org/pdf/1404.2960.pdf
    * Download all of the Kepler transiting planets
       * Make histogram of planet radii
       * Make Orbital period vs Planet Radius plot
+      
+Matplotlib:
+https://matplotlib.org/tutorials/introductory/sample_plots.html#sphx-glr-tutorials-introductory-sample-plots-py
+
+Pandas:
+http://pandas.pydata.org/pandas-docs/stable/10min.html
+      
 ### Paper of the week:
 
 ## Week 4 (Group Leader: Sarah) (week of July 2nd)
