@@ -73,11 +73,11 @@ http://pandas.pydata.org/pandas-docs/stable/10min.html
   * phase fold to depth of planet, confirm period 
 ### Paper of the week:
 
-## Week 7 ( Group Leader: Becky/Sarah/Isabel) (week of July 23rd)
+## Week 7 ( Group Leader: Sarah/Isabel) (week of July 23rd)
  *  Statistics:
    * median/mean/mode/outlier_rejection/errors in quadrature
    * Overleaf/Sharelatex 
-   * make a CV,  research paper template
+   * make a CV (Lead: Isabel),  research paper template
 ### Paper of the week:
 
 ## Week 8 (Group Leader: Howard/Isabel) (week of July 30th)
