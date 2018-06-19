@@ -22,17 +22,22 @@
 ### Paper of the week:
 
 ## Week 2 (Group Leader: Howard) (week of June 18th)
-* R 
 * Python
 * Ipython
 * Jupyter
 * Jupyter labs
 
+ * How to effectively read a Scientific Paper
+
+
     Numpy, Pandas, Gspread, reading in files, plotting (data discovery, bokeh), radvel,.
     Start planet fitting with fitting a sin wave, move to radvel
     Astropy, pyephem(advanced)
     Plotting: linear vs log space
-### Paper of the week:
+### Paper of the week: 
+"Occurrence and core-envelope structure of
+1–4x Earth-size planets around Sun-like stars"
+https://arxiv.org/pdf/1404.2960.pdf
 
 ## Week 3 (Group Leader: Sarah & Alma) (week of June 25th)
  * GAIA and SQL interface (online Astronomy Archives)
@@ -80,6 +85,9 @@
 
 ## Week 10 (Group Leader: All) (week of August 13th)
 * Final Project: Research proposal.
+
+## Other:
+* R tutorial
 
 
 
