@@ -12,6 +12,7 @@
   * Overleaf.com 
   * Kaggle.com
   * Papers and/or ADS experience (Building a library of papers)
+  * Piazza.com ( Course Q&A website)
 ### Other topics:
   * How to write a professional email.
   * Make sure everyone has python installed.
