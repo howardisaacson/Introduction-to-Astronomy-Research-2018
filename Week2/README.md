@@ -5,6 +5,8 @@ Google Hangout. (Contact Details to be sent out before meeting)
 
 ## Agenda: (Because a meeting without an agenda is no meeting at all).
 
+0) Announcement about Piazza 
+
 1) Review/Checkin from last week:
 
 2) Short Tutorial on IPython, Jupyter, and git.
