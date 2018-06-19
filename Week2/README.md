@@ -15,8 +15,12 @@ Google Hangout. (Contact Details to be sent out before meeting)
    - Quick overview of Scipy, Astropy
   
 ### Numpy:
+
+Main Website:
 http://www.numpy.org
 
+Tutorial for this week:
+https://docs.scipy.org/doc/numpy/user/quickstart.html
 
 ### Astropy: The astropy module has many of the essential and useful functions that Astronomers use on a daily basis. From the perspective of an observer, we can use astropy for planning and carrying out observations at the telescope.
 
