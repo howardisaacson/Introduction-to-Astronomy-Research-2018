@@ -37,6 +37,10 @@ http://astropy-tutorials.readthedocs.io/en/latest/rst-tutorials/Coordinates-Intr
 
 https://hub.mybinder.org/user/astropy-astropy-tutorials-x9nzms5p/notebooks/tutorials/notebooks/Coordinates-Intro/Coordinates-Intro.ipynb
 
+Bonus Round Astropy tutorial:
+http://astropy-tutorials.readthedocs.io/en/latest/rst-tutorials/quantities.html
+No need to worrry about plotting yet. We will cover that next week.
+
 ### Scipy:
 https://scipy.org
 
