@@ -31,11 +31,11 @@ The astropy module has many of the essential and useful functions that Astronome
 
 Main Website:
 http://www.astropy.org
-https://hub.mybinder.org/user/astropy-astropy-tutorials-x9nzms5p/notebooks/tutorials/notebooks/Coordinates-Intro/Coordinates-Intro.ipynb
 
 Tutorial for this week:
 http://astropy-tutorials.readthedocs.io/en/latest/rst-tutorials/Coordinates-Intro.html
 
+https://hub.mybinder.org/user/astropy-astropy-tutorials-x9nzms5p/notebooks/tutorials/notebooks/Coordinates-Intro/Coordinates-Intro.ipynb
 
 ### Scipy:
 https://scipy.org
