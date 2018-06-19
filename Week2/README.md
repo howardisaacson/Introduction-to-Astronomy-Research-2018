@@ -46,10 +46,18 @@ No need to worrry about plotting yet. We will cover that next week.
 ### Scipy:
 https://scipy.org
 
+Scipy is an incredibly powerful module for conducting high level scientific computing. Because we are 
+focusing on the basics of scientific computing in this class, only a single basic tutorial will be assigned.
+For those of you who desire more depth, please explore the full tutorials page linked from the scipy homepage.
+
+Tutorial for this week:  
 https://docs.scipy.org/doc/scipy/reference/tutorial/basic.html  
 
 
 ### Paper of the week:
+During my time as a researcher in Astronomy. Those astronomers using ground based telescopes to follow up
+on discoveries made by NASA's Kepler Mission came to some amazing conclusions. They are summarized here:
+
 "Occurrence and core-envelope structure of 1–4x Earth-size planets around Sun-like stars"
 https://arxiv.org/pdf/1404.2960.pdf
 
