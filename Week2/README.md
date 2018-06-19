@@ -26,10 +26,12 @@ Bonus round: 100 Numpy commands
 https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb
 (This notebook can be cloned to your local computer)
 
-### Astropy: The astropy module has many of the essential and useful functions that Astronomers use on a daily basis. From the perspective of an observer, we can use astropy for planning and carrying out observations at the telescope.
+### Astropy: 
+The astropy module has many of the essential and useful functions that Astronomers use on a daily basis. From the perspective of an observer, we can use astropy for planning and carrying out observations at the telescope.
 
 Main Website:
 http://www.astropy.org
+https://hub.mybinder.org/user/astropy-astropy-tutorials-x9nzms5p/notebooks/tutorials/notebooks/Coordinates-Intro/Coordinates-Intro.ipynb
 
 Tutorial for this week:
 http://astropy-tutorials.readthedocs.io/en/latest/rst-tutorials/Coordinates-Intro.html
