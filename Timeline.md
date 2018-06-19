@@ -27,9 +27,9 @@
 * Jupyter
 * Jupyter labs
 
- * How to effectively read a Scientific Paper
+* How to effectively read a Scientific Paper
 
-
+* Extras
     Numpy, Pandas, Gspread, reading in files, plotting (data discovery, bokeh), radvel,.
     Start planet fitting with fitting a sin wave, move to radvel
     Astropy, pyephem(advanced)
