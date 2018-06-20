@@ -17,7 +17,13 @@ Google Hangout. (Contact Details to be sent out before meeting)
 3) How to read a scientific paper
 
 3) Writing prompt   
-  
+
+## Assignments for this Week:
+
+### Writing Prompt
+
+This week, please spend 10-15 minutes of your own time assessing your progress by writing in your online notebooks. Did you complete as many of the assignments as you wanted to last week? Are you happy with your progress? What will you do similarly and differently this week? What are the most important things you learned last week?
+
 ### Numpy:
 
 Main Website:
@@ -68,12 +74,20 @@ https://arxiv.org/pdf/1404.2960.pdf
 How to find scientific papers: Use Astrophysics Data System or ADS:
 https://ui.adsabs.harvard.edu
 
-
-### Writing prompt
-
 Mendeley is a great application to track the many scientific papers that you will use throughout your careers.
-
 https://www.mendeley.com
 
-We will be discussing this paper, which uses direct imaging to discover and confirm and exoplanet:
+During class, we discussed this paper, which uses direct imaging to discover and confirm and exoplanet:
 https://arxiv.org/pdf/1509.07514.pdf
+
+
+
+For your assignment this week, please read the paper of the week (NOT the above paper, although you can read it if you'd like!) thoroughly. Try to observe the following note-taking strategy (or use something similar that works for you):
+- highlight words you don't know in one color. Look up their definitions and write them down as in-text notes as you read.
+- highlight key ideas in another color.
+- keep a general note with summaries of each paragraph
+- keep a general note with summaries of each section
+- keep a note with 10-word or less summaries of each figure
+- keep a note with overall questions you have about the paper. Some of these you may resolve as you read-- once you've finished reading the paper, revisit this note and see how many of your own questions you can answer!
+
+Once you've read the whole paper, post 2-3 remaining questions you have on our class piazza page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
