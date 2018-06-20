@@ -9,7 +9,7 @@ clever. But we must NOT dispare and think, well let's leave it all to them. We a
 in astronomy, from the Nobel Laureate and Tenured professor, to graduate students, undergradudates,
 and high school students. We all have something to offer.
 
-The training in astronomy is longer than it is in many other fields. This is, in part, because there is
+The training in astronomy is longer and more onerous than it is in many other fields. This is, in part, because there is
 a long history in astronomy that we all must learn. In addition, the field is constantly changing.
 For example, the theories that attempt to explain how planets form have two revolutions since 1995.
 That's only a little over 20 years and the field of planet formation has been turned on it's head...twice.
