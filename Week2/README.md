@@ -65,4 +65,9 @@ on discoveries made by NASA's Kepler Mission came to some amazing conclusions. T
 "Occurrence and core-envelope structure of 1–4x Earth-size planets around Sun-like stars"
 https://arxiv.org/pdf/1404.2960.pdf
 
+How to find scientific papers: Use Astrophysics Data System or ADS:
+https://ui.adsabs.harvard.edu
+
+
 ### Writing prompt
+
