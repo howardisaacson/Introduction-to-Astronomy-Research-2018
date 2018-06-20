@@ -71,3 +71,6 @@ https://ui.adsabs.harvard.edu
 
 ### Writing prompt
 
+Mendeley is a great application to track the many scientific papers that you will use throughout your careers.
+
+https://www.mendeley.com
