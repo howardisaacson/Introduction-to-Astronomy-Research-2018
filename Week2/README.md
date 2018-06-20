@@ -13,6 +13,10 @@ Google Hangout. (Contact Details to be sent out before meeting)
    - Git clone this repository.
    - Show advantage of Jupyter, Jupyter labs over Ipython.
    - Quick overview of Scipy, Astropy
+
+3) How to read a scientific paper
+
+3) Writing prompt   
   
 ### Numpy:
 
