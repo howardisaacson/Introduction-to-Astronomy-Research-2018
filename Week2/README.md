@@ -74,3 +74,6 @@ https://ui.adsabs.harvard.edu
 Mendeley is a great application to track the many scientific papers that you will use throughout your careers.
 
 https://www.mendeley.com
+
+We will be discussing this paper, which uses direct imaging to discover and confirm and exoplanet:
+https://arxiv.org/pdf/1509.07514.pdf
