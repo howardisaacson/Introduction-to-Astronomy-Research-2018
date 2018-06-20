@@ -3,7 +3,7 @@ with the fact that I am surrounded by really smart people. In nearly any topic, 
 one that feel very confident in discussing, there is always somebody who has more exprience,
 or has thought of something that I missed.
 
-We all must think of this not as a problem with astronomy, but as benefit of astronomy. The
+We must think of this not as a problem with astronomy, but as benefit of astronomy. The
 most difficult part of this is being okay with working around people who can be annoyingly
 clever. But we must NOT dispare and think, well let's leave it all to them. We all have a place
 in astronomy, from the Nobel Laureate and Tenured professor, to graduate students, undergradudates,
