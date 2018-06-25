@@ -1,10 +1,13 @@
-README:
+# README:
 
 # Agenda:
 
-### Intro: Howard. Check-in. Introduce Becky as mentor. 
-### Imposter Syndrome: https://www.quickanddirtytips.com/health-fitness/medical-conditions/what-is-impostor-syndrome
-### Writing Exercise: In your online notebooks, please spend 10 minutes responding to the following prompts:
+### Howard: Intro
+- Check-in. Introduce Becky as mentor. 
+### Imposter Syndrome 
+- Article [here](https://www.quickanddirtytips.com/health-fitness/medical-conditions/what-is-impostor-syndrome).
+### Writing Exercise: 
+In your online notebooks, please spend 10 minutes responding to the following prompts:
 
     1. Write down everything you learned from reading this week's scientific paper. Focus on two categories: 
     - general lessons about effectively reading science papers
