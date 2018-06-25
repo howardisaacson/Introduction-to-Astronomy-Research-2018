@@ -1,6 +1,9 @@
 README:
 
 Agenda:
+Intro: Howard. Check-in. Introduce Becky as mentor. 
+
+Imposter Syndrome: https://www.quickanddirtytips.com/health-fitness/medical-conditions/what-is-impostor-syndrome
 
 (10 mins) Writing Exercise: In your online notebooks, please spend 10 minutes responding to the following prompts:
 
