@@ -11,9 +11,9 @@ In this tutorial, you will:
 - Make a mass-radius diagram using the online interface.
 - Download the data, then replicate plots in Python using matplotlib.pyplot
 
-##Plot in Python
+## Plot in Python
 - Using pandas.read_csv and matplotlibl.pyplot.plot, make the mass-radius diagram in Python.l
 - Note any interesting features of the plot.
 
-##For more practice
+## For more practice
 - Download additional data of interest from the Archive, make plots for these online and in Python.
