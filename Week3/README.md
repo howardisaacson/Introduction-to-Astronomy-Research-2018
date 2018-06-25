@@ -14,6 +14,8 @@ Imposter Syndrome: https://www.quickanddirtytips.com/health-fitness/medical-cond
 
 Tutorials:
 
+matplotlib: https://matplotlib.org/users/pyplot_tutorial.html
+
 Software Carpentry, More Python:
 http://swcarpentry.github.io/python-novice-gapminder/
 
