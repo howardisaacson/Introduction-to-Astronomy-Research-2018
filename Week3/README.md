@@ -36,3 +36,5 @@ This of 2b and 2c as references for the above tutorials.
    try this one next. [week 3 python tutorial](http://swcarpentry.github.io/python-novice-gapminder/) 
 
 5.  Finish reading the week 2 [scientific paper of the week](https://arxiv.org/pdf/1404.2960.pdf). Remember, if you haven't already, post at least two questions about the paper on piazza and answer at least one classmate's question (you don't have to be right)!
+
+6. Post one question you have about Gaia on piazza.
