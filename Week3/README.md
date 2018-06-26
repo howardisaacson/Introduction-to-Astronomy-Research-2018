@@ -19,14 +19,23 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 
 # Assignments:
 
-1. [week 3 python tutorial](http://swcarpentry.github.io/python-novice-gapminder/)
+1. Complete Alma's NASA Exoplanet Archive jupyter notebook.
 
-2. [python/matplotlib tutorial](https://matplotlib.org/users/pyplot_tutorial.html)
+2. Complete Sarah's Gaia Database jupyter notebook.
 
-3. [python/pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 
-4. Complete Alma's NASA Exoplanet Archive jupyter notebook.
+2a. Use this python tutorial to help you with Alma's and Sarah's tutorials: 
 
-5. Complete Sarah's Gaia Database jupyter notebook.
+2b. [python/matplotlib tutorial](https://matplotlib.org/users/pyplot_tutorial.html)
+2c. [python/pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+
+3.(Bonus Round!) 
+   This tutorial has many very useful routines. If you have completed the first two tutorials,
+   try this one next. [week 3 python tutorial](http://swcarpentry.github.io/python-novice-gapminder/) 
+
+
+
+
+
 
 6. Finish reading the week 2 [scientific paper of the week](https://arxiv.org/pdf/1404.2960.pdf). Remember, if you haven't already, post at least two questions about the paper on piazza and answer at least one classmate's question (you don't have to be right)!
