@@ -1,7 +1,7 @@
 # Agenda:
 
 ### Howard: Intro
-- Check-in. Introduce Becky as mentor. 
+- Check-in. 
 ### Imposter Syndrome 
 - Article [here](https://www.quickanddirtytips.com/health-fitness/medical-conditions/what-is-impostor-syndrome).
 ### Writing Exercise: 
@@ -24,7 +24,8 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 2. Complete Sarah's Gaia Database jupyter notebook.
 
 
-2a. Use this python tutorial to help you with Alma's and Sarah's tutorials: 
+2a. Use these python tutorials to help you with Alma's and Sarah's tutorials, but focus on 1. and 2. first.
+This of 2b and 2c as references for the above tutorials.
 
 2b. [python/matplotlib tutorial](https://matplotlib.org/users/pyplot_tutorial.html)
 2c. [python/pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
