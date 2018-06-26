@@ -29,4 +29,4 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 
 5. Complete Sarah's Gaia Database jupyter notebook.
 
-6. Finish reading the week 2 scientific paper of the week (by Marcy et al). Remember, if you haven't already, post at least two questions about the paper on piazza and answer at least one classmate's question (you don't have to be right)!
+6. Finish reading the week 2 [scientific paper of the week](https://arxiv.org/pdf/1404.2960.pdf). Remember, if you haven't already, post at least two questions about the paper on piazza and answer at least one classmate's question (you don't have to be right)!
