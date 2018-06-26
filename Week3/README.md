@@ -27,8 +27,9 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 2. a) Use these python tutorials to help you with Alma's and Sarah's tutorials, but focus on 1. and 2. first.
 This of 2b and 2c as references for the above tutorials.
 
-2. b) [python/matplotlib tutorial](https://matplotlib.org/users/pyplot_tutorial.html)
-2. c) [python/pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+2b [python/matplotlib tutorial](https://matplotlib.org/users/pyplot_tutorial.html)
+
+2c [python/pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 
 3.  (Bonus Round!) 
    This tutorial has many very useful routines. If you have completed the first two tutorials,
