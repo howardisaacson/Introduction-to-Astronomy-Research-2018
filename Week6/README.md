@@ -7,7 +7,7 @@ README:
 ### Writing Exercise: 
 In your online notebooks, please spend 10 minutes responding to the following prompts:
 
-    1. Write down attributes that make up a good academic website. What do you think is important to include? 
+    1. Make a list of attributes that make up a good academic website. What do you think is important to include? 
     
     2. Write down what you remember from previous weeks about Kepler, transits, and photometry.
     
