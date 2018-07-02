@@ -15,4 +15,4 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 # Assignments:
 
 1. Finish reading [Bowler et al. 2016](https://arxiv.org/pdf/1605.02731.pdf) (over the next two weeks)
-2. Complete Ruben and Sarah's RadVel tutorial.
+2. Complete Sarah's RadVel tutorial.
