@@ -60,11 +60,15 @@ http://pandas.pydata.org/pandas-docs/stable/10min.html
  * Beyond the radvel tutorial, do better to explain what is going on. (Ruben)
  * Add more comments about basic python usage.
 ### Paper of the week:
+"Imaging Extrasolar Giant Planets"
+https://arxiv.org/pdf/1605.02731.pdf
 
 ## Week 5 (Group Leader: Alma) (week of July 9th)
  * Build a website (maybe include a database, bottle, flask) 
  * What belongs on an academic website. (Heather Knutson). 
 ### Paper of the week:
+"Imaging Extrasolar Giant Planets"
+https://arxiv.org/pdf/1605.02731.pdf
 
 ## Week 6 (Group Leader: Isabel) (week of July 16th)
 * Download Kepler Data:
