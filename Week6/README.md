@@ -14,6 +14,8 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 ### Tutorials:
 1. Isabel: Downloading, analyzing and plotting Kepler Data
 
+### Paper of the Week:
+
 # Assignments:
 
 1. Complete Isabel's Kepler transit jupyter notebook
