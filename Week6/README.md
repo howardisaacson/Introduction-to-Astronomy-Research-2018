@@ -23,7 +23,6 @@ early kepler discovery paper http://science.sciencemag.org/content/327/5968/977
 
 exo-Earth discovery paper https://arxiv.org/abs/1404.5667
 
-exoplanet atmosphere observations https://arxiv.org/abs/1709.05941
  
 # Assignments:
 
