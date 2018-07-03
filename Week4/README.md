@@ -3,6 +3,9 @@
 ### Howard: Intro
 - Check-in. 
 
+### Alma: Check-in on Last week's tutorials:
+
+
 ### Writing Exercise: 
 In your online notebooks, please spend 10 minutes responding to the following prompt:
 
