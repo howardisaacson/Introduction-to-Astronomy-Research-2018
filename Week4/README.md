@@ -4,7 +4,8 @@
 - Check-in. 
 
 ### Alma: Check-in on Last week's tutorials:
-
+1. Question session (key will be posted)
+2. Please upload your plots to your drive folder as one PDF file
 
 ### Writing Exercise: 
 In your online notebooks, please spend 10 minutes responding to the following prompt:
