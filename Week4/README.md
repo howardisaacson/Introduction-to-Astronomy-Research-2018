@@ -5,7 +5,6 @@
 
 ### Alma: Check-in on Last week's tutorials:
 1. Question session (key will be posted)
-2. Please upload your plots to your drive folder as one PDF file
 
 ### Writing Exercise: 
 In your online notebooks, please spend 10 minutes responding to the following prompt:
@@ -18,5 +17,6 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 
 # Assignments:
 
-1. Finish reading [Bowler et al. 2016](https://arxiv.org/pdf/1605.02731.pdf) (over the next two weeks)
-2. Complete Sarah's RadVel tutorial.
+1. Upload your plots from the NASA Exoplanet Archive data to your student folder Google Drive
+2. Finish reading [Bowler et al. 2016](https://arxiv.org/pdf/1605.02731.pdf) (over the next two weeks)
+3. Complete Sarah's RadVel tutorial.
