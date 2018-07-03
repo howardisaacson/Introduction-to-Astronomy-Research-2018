@@ -17,6 +17,7 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 
 # Assignments:
 
-1. Upload your plots from the NASA Exoplanet Archive data to your student folder Google Drive
-2. Finish reading [Bowler et al. 2016](https://arxiv.org/pdf/1605.02731.pdf) (over the next two weeks)
-3. Complete Ruben's & Sarah's RadVel tutorial.
+1. Upload your plots from the NASA Exoplanet Archive data and Gaia tutorials to your student folder Google Drive
+2. Check your work from last week against the tutorial answer keys (posted in week 3 folder)
+3. Finish reading [Bowler et al. 2016](https://arxiv.org/pdf/1605.02731.pdf) (over the next two weeks)
+4. Complete Ruben's & Sarah's RadVel tutorial.
