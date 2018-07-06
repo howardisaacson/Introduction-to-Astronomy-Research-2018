@@ -16,6 +16,7 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 
 ### Paper of the Week:
 An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014)
+
 *description: This paper does a great job of describing in detail how Kepler planets are found and confirmed. It also provides meaningful contributions to ongoing conversations about astrobiology and exoplanet habitability.*  
  
 # Assignments:
