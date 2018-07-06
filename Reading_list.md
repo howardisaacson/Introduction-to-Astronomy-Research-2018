@@ -14,6 +14,10 @@ Astronomers conduct much of their reading online, but a good collection of books
     * https://ui.adsabs.harvard.edu/#abs/2018arXiv180203090S/abstract
   * Exoplanet Atomospheres at High Resolution
     * https://arxiv.org/pdf/1806.04617.pdf
+  * Exoplanet Discovery:
+    * TRAPPIST discovery paper https://www.nature.com/articles/nature21360
+    * early kepler discovery paper http://science.sciencemag.org/content/327/5968/977
+    * exo-Earth discovery paper https://arxiv.org/abs/1404.5667
 
 * Statistics
 
