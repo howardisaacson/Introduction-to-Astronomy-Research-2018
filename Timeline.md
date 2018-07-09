@@ -63,9 +63,11 @@ http://pandas.pydata.org/pandas-docs/stable/10min.html
 "Imaging Extrasolar Giant Planets"
 https://arxiv.org/pdf/1605.02731.pdf
 
-## Week 5 (Group Leader: Alma) (week of July 9th)
- * Build a website (maybe include a database, bottle, flask) 
- * What belongs on an academic website. (Heather Knutson). 
+## Week 5  (week of July 9th)
+ * Build a website using wix.com (Leader: Alma) 
+    * What belongs on an academic website. 
+ * make a CV using Overleaf.com (Lead: Isabel)
+ 
 ### Paper of the week:
 "Imaging Extrasolar Giant Planets"
 https://arxiv.org/pdf/1605.02731.pdf
@@ -80,8 +82,7 @@ https://arxiv.org/pdf/1605.02731.pdf
 ## Week 7 ( Group Leader: Sarah/Isabel) (week of July 23rd)
  *  Statistics:
    * median/mean/mode/outlier_rejection/errors in quadrature
-   * Overleaf/Sharelatex 
-   * make a CV (Lead: Isabel),  research paper template
+   * Overleaf/Sharelatex,  research paper template
 ### Paper of the week:
 
 ## Week 8 (Group Leader: Howard/Isabel) (week of July 30th)
