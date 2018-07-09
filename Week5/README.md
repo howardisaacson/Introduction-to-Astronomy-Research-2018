@@ -29,16 +29,25 @@ https://www.wix.com
 Here are some examples of websites from various undergrads, grad students/post docs, and faculty. Feel free to browse them for inspiration!
 
 *undergrad websites:*
+
 loganpearcescience.com (Logan Pearce, undergrad)
+
 http://ugastro.berkeley.edu/~ipasha/# (Imad Pasha, undergrad)
+
 https://isabelangelo8.wixsite.com/isabelangelo (Isabel Angelo, postbac)
  
 *grad student/post doc websites:*
+
 https://www.astro.princeton.edu/~ghalevi/ (Goni Halevi, grad student)
+
 https://www.erikpetigura.com/ (Erik Petigura, postdoc)
+
 http://lweiss25.wixsite.com/weiss (Lauren Weiss, postdoc)
 
 *faculty websites:*
+
 http://web.gps.caltech.edu/~hknutson/Welcome.html (Heather Knutson)
+
 http://www.as.utexas.edu/~bpbowler/ (Brendan Bowler)
+
 http://w.astro.berkeley.edu/~dressing/ (Courtney Dressing)
