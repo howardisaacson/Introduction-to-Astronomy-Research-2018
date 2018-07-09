@@ -2,7 +2,7 @@ README:
 # Agenda:
 
 ### Intro (Howard)
-- Intro, Check-in. The Future of Space Based Astronomy
+- Intro, Check-in. The Future of Astronomy: Communication and Collaboration.
 
 ### Recap of the Direct Imaging Paper (Becky):
   The Bowler (2016) exoplanet paper remains a classic paper because of it's thorough and complete recap of directly imaged planets at that time. Becky will take us through some of the highlights of the paper. Be prepared with questions that you encountered when reading the paper and everyone should be prepared to discuss one interesting point from the paper.
