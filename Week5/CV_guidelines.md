@@ -29,7 +29,7 @@ A Curriculum Vitae, or an academic resume, serves to summarize your accomplishme
 
 *note: if you don't have anything to fill out for some of these categories, don't worry! They are a good thing to keep in mind for the future, but are by no means necessary for starting research. These categories can take years (often an entire undergraduate career) to build up*
  
-### How to describe a research project?
+### How should a research project be described?
 You want to make this part concise but still highlight your accomplishments. A description of a research project should include the following:
 
 (1) your position title and institution
