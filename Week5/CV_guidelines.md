@@ -23,7 +23,7 @@ Edit the source text/LaTeX code on the left side of the template with your infor
 
 A Curriculum Vitae, or an academic resume, serves to summarize your accomplishments in a compact format that is used for job interviews, grant proposals, tends to be of general interst to people who want to connect with you in academia. Categories can vary depending on your specific qualifications, but there are some common categories that go in most academic CV's. There are others that are common but not mandatory, and are meant to highlight the unique skills and experience of the individual.
 
-**common categories:** education, research experience, honors and awards, publications, posters/talks/conferences attended, teaching/volunteer work/outreach, coursework, technical skills (the last two are less common post-undergrad, but are super helpful for applying to research positions)
+**common categories:** education, research experience, honors and awards, publications, posters/talks/conferences attended, teaching/volunteer work/outreach, coursework, technical skills (the last two are less common post-undergrad, but are super helpful for applying to more entry-level research positions)
 
 **other optional categories:** research interests, observing experience and/or high performance computing experience, languages, extracurriculars, references, news/media (if your research is talked about in an article, if you have a blog, etc), or any category that can highlight a skill you have
 
