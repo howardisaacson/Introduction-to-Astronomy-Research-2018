@@ -46,7 +46,7 @@ you may also want to describe any major skills you used (adapting code for super
 
 *1. Keep a list of things you want to add to it.* When you think of something that can go on your CV, write it down in a notebook or in a note on your phone. Then when you go to update your CV, you won't have to rack your brain for what to put on it. It's amazing how much this helps!
 
-*2. Look at other CV's for exampls.* Go onto websites of people in your field and look at their CV's (see this week's README  for examples). This can give you ideas for what categories to use and what a good CV can look like.
+*2. Look at other CV's for examples.* Go onto websites of people in your field and look at their CV's (see this week's README  for examples). This can give you ideas for what categories to use and what a good CV can look like.
 
 *3. Put your best accomplishments at the top!* Most of the time education and research are the first categories in a CV, but after that it is more open-ended. If you are particularly proud of your teaching experience or awards, don't be afraid to put that where the reader can see it.
 
