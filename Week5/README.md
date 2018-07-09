@@ -25,6 +25,8 @@ https://www.wix.com
 
 3. Create a website using the platform of your choice. You may use a template or create a site from scratch.
 
+4. Create an account on overleaf (https://www.overleaf.com/) and make a draft of a CV! See the "CV Guide" for more information.
+
 ### Resources:
 Here are some examples of websites from various undergrads, grad students/post docs, and faculty. Feel free to browse them for inspiration!
 
