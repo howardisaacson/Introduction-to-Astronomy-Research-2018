@@ -30,6 +30,8 @@ https://www.wix.com
 
 4. Create an account on overleaf (https://www.overleaf.com/) and make a draft of a CV! See the "CV Guidelines" for more information.
 
+5. Check your work from last week against the tutorial answer key (posted in week 4 folder)
+
 ### Resources:
 Here are some examples of websites from various undergrads, grad students/post docs, and faculty. Feel free to browse them for inspiration!
 
