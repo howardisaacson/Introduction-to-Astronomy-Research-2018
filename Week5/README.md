@@ -8,8 +8,11 @@ README:
   The Bowler (2016) exoplanet paper remains a classic paper because of it's thorough and complete recap of directly imaged planets at that time. Becky will take us through some of the highlights of the paper. Be prepared with questions that you encountered when reading the paper and everyone should be prepared to discuss one interesting point from the paper.
 
 ### Writing Exercise: 
-In your online notebooks, please spend 5 minutes responding to the following prompts:
-    1.    
+In your online notebooks, please spend 7 minutes responding to the following prompt:
+    1. List as many questions as you can (at least 10) about direct imaging (think about the paper you started to read last week). Try for a mix of specific questions and general/big-picture questions. 
+    2. Post your favorite question on Piazza. 
+    
+After 7 minutes, spend 3 minutes answering another student's question (you don't have to be right!)
     
 ### Tutorial:
 1. Alma: Creating a Website
