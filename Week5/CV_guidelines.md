@@ -27,7 +27,7 @@ A Curriculum Vitae, or an academic resume, serves to summarize your accomplishme
 
 **other optional categories:** research interests, observing experience and/or high performance computing experience, languages, extracurriculars, references, news/media (if your research is talked about in an article, if you have a blog, etc), or any category that can highlight a skill you have
 
-**categories that don't belong** non-academic work experience, extracurricular activities (sports teams, clubs, etc.), volunteer experience (unless is is related to your academic field, in which case it can go under "outreach")
+**categories that don't belong:** non-academic work experience, extracurricular activities (sports teams, clubs, etc.), volunteer experience (unless is is related to your academic field, in which case it can go under "outreach")
 
 *note: if you don't have anything to fill out for some of these categories, don't worry! They are a good thing to keep in mind for the future, but are by no means necessary for starting research. These categories can take years (often an entire undergraduate career) to build up*
  
