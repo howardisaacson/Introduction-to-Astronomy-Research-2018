@@ -80,9 +80,7 @@ https://arxiv.org/pdf/1605.02731.pdf
 ### Paper of the week:
 
 ## Week 7 ( Group Leader: Sarah/Isabel) (week of July 23rd)
- *  Statistics:
-   * median/mean/mode/outlier_rejection/errors in quadrature
-   * Overleaf/Sharelatex,  research paper template
+ *  Statistics: median/mean/mode/outlier rejection/errors in quadrature
 ### Paper of the week:
 
 ## Week 8 (Group Leader: Howard/Isabel) (week of July 30th)
