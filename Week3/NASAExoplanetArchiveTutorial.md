@@ -16,4 +16,4 @@ In this tutorial, you will:
 - Note any interesting features of the plot.
 
 ## For more practice
-- Download additional data of interest from the Archive, make plots for these online and in Python.
+- Download additional data of interest from the Archive, make scatter plots for these online and in Python.
