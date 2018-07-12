@@ -5,7 +5,7 @@ In this tutorial, you will:
 - use the NASA Exoplanet Archive to get parameters for confirmed exoplanets.
 - plot a mass-radius diagram
 
-## Learn about the NASA Exoplanet Archive
+## Query the NASA Exoplanet Archive
 - Navigate to the NASA Exoplanet Archive (https://exoplanetarchive.ipac.caltech.edu/).
 - Click 'Confirmed Exoplanets' to access the data.
 - Make a mass-radius diagram using the online interface.
