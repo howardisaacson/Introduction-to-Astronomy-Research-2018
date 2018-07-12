@@ -17,3 +17,8 @@ In this tutorial, you will:
 
 ## For more practice
 - Download additional data of interest from the Archive, make scatter plots for these online and in Python.
+
+## Note to instructor 
+The guided tutorial part of this lesson includes a screen share of the instructors web browser, 
+while navigating the Exoplanet Archive page. The instructor should show how to modify columns,
+remove NaN values from the table, and show how to select from the many options in the NEA.
