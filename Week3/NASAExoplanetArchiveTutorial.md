@@ -21,4 +21,7 @@ In this tutorial, you will:
 ## Note to instructor 
 The guided tutorial part of this lesson includes a screen share of the instructors web browser, 
 while navigating the Exoplanet Archive page. The instructor should show how to modify columns,
-remove NaN values from the table, and show how to select from the many options in the NEA.
+remove NaN values from the table, and show how to select from the many options in the NEA. 
+The instructor should also guide the students through plotting a mass-radius diagram using the ICE
+plotter on NEA. Lastly, the instructor should code a script for reproducing this plot in python
+using matplotlib.pyplot on screen, explaining in detail what each command and argument do.
