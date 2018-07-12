@@ -85,6 +85,7 @@ https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
 ## Week 7 ( Group Leader: Sarah/Isabel) (week of July 23rd)
  *  Statistics: median/mean/mode/outlier rejection/errors in quadrature
  *  An Introduction to the programming language R in discussing habitability.
+    * Installing R (https://discuss.analyticsvidhya.com/t/how-to-run-r-on-jupyter-ipython-notebooks/5512/2)
 ### Paper of the week:
  Same as last week
 
