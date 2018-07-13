@@ -73,9 +73,9 @@ https://arxiv.org/pdf/1605.02731.pdf
 https://arxiv.org/pdf/1605.02731.pdf
 
 ## Week 6 (Group Leader: Isabel) (week of July 16th)
-* Download Kepler Data:
-  * Cross correlation: Auto-correlation
-  * Periodogram, identify planet period
+* Download Kepler photometric data Data:
+  * Identifying the period of transiting planets using periodograms
+  * Binning and phase folding photometric data.
   * phase fold to depth of planet, confirm period 
 ### Paper of the week:
 An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014)
