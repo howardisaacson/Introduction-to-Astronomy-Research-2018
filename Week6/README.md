@@ -2,7 +2,9 @@ README:
 # Agenda:
 
 ### Howard: Intro
-- Check-in. 
+- Check-in, and a few words about NASA's Kepler Spacecraft.
+
+### Review of Websites created last week.
 
 ### Writing Exercise: 
 In your online notebooks, please spend 10 minutes responding to the following prompts:
