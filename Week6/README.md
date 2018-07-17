@@ -21,6 +21,12 @@ An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014
 
 *description: This paper does a great job of describing in detail how Kepler planets are found and confirmed. It also provides meaningful contributions to ongoing conversations about astrobiology and exoplanet habitability.*  
  
+link to the paper:
+
+ http://science.sciencemag.org/content/344/6181/277.full (Science Version)
+ 
+ https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
+
 # Assignments:
 
 1. Complete Isabel's Kepler transit jupyter notebook
