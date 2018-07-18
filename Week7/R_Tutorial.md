@@ -5,17 +5,17 @@ In this tutorial, you will:
 - use a pre-generated script to generate results
 - analyze the growth rate of bacterial organisms
 
-#Before the tutorial
+## Before the tutorial
 1.Download Anaconda-Navigator for your operating system (https://www.anaconda.com/download)
 2.From the homepage of the Anaconda-Navigator app, install RStudio
 
-##Use R to analyze bacterial growth rates
+## Use R to analyze bacterial growth rates
 -Download (or do a git pull for) the growth_rates.R script provided in Week 7 of the class GitHub page
 -Vary the time (year=n) by 1, 10, 30, 50, and 100 years
 -Vary the initial population size (n=n) by 1, 10, 30, 50, and 100 individuals
 -Vary the environmental carrying capacity by 100, 1000, and 10000
 
-##Analysis
+## Analysis
 1. How does the time-scale affect the population size over time?
 2. How does initial population size affect the population size over time?
 3. How does the environmental carrying capacity affect the population size over time? The final population size?
