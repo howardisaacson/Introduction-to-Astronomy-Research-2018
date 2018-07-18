@@ -6,8 +6,8 @@ In this tutorial, you will:
 - analyze the growth rate of bacterial organisms
 
 ## Before the tutorial
-1.Download Anaconda-Navigator for your operating system (https://www.anaconda.com/download)
-2.From the homepage of the Anaconda-Navigator app, install RStudio
+- Download Anaconda-Navigator for your operating system (https://www.anaconda.com/download)
+- From the homepage of the Anaconda-Navigator app, install RStudio
 
 ## Use R to analyze bacterial growth rates
 -Download (or do a git pull for) the growth_rates.R script provided in Week 7 of the class GitHub page
