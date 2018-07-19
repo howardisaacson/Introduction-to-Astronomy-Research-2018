@@ -73,33 +73,38 @@ https://arxiv.org/pdf/1605.02731.pdf
 https://arxiv.org/pdf/1605.02731.pdf
 
 ## Week 6 (Group Leader: Isabel) (week of July 16th)
-* Download Kepler Data:
-  * Cross correlation: Auto-correlation
-  * Periodogram, identify planet period
+* Download Kepler photometric data Data:
+  * Identifying the period of transiting planets using periodograms
+  * Binning and phase folding photometric data.
   * phase fold to depth of planet, confirm period 
 ### Paper of the week:
+An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014)
+http://science.sciencemag.org/content/344/6181/277.full (Science Version)
+https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
 
 ## Week 7 ( Group Leader: Sarah/Isabel) (week of July 23rd)
- *  Statistics:
-   * median/mean/mode/outlier_rejection/errors in quadrature
-   * Overleaf/Sharelatex,  research paper template
+ *  Statistics: median/mean/mode/outlier rejection/errors in quadrature
+ *  An Introduction to the programming language R in discussing habitability.
+    * Installing R (https://discuss.analyticsvidhya.com/t/how-to-run-r-on-jupyter-ipython-notebooks/5512/2)
 ### Paper of the week:
+ Same as last week
 
 ## Week 8 (Group Leader: Howard/Isabel) (week of July 30th)
 * High Resolution Spectra
   * examine many Keck/APF spectra: determine resolution 
   * (plot resolution as a function of wavelength), Use Haynes tutorial as a guide
 ### Paper of the week:
+"Life Outside the Solar System"  by Su-Shu Huang
+https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf (may be behind a pay wall)
 
 ## Week 9 ( Group Leader: Sarah) (week of August 6th)
-* SETI, Voyager tutorial.   
 * Begin Final Project: Research Proposal
 
 ## Week 10 (Group Leader: All) (week of August 13th)
 * Final Project: Research proposal.
 
 ## Other:
-* R tutorial
+
 
 
 
