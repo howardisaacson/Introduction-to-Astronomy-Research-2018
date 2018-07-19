@@ -12,8 +12,9 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 ### Tutorials:
 1. Sarah: statistics
 2. Alma: R & Rstudio 
-- Before the tutorial, download Anaconda-Navigator for your operating system (https://www.anaconda.com/download)
-- From the homepage of the Anaconda-Navigator app, install RStudio
+- Before the tutorial, download Anaconda-Navigator for your operating system and install Rstudio using the following in command line:
+>conda install anaconda-navigator
+>conda install rstudio
 
 ### Paper of the Week:
 An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014)
