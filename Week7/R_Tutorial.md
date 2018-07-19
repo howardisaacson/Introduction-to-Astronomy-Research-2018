@@ -8,7 +8,9 @@ In this tutorial, you will:
 ## Before the tutorial
 - Download Anaconda-Navigator for your operating system and install Rstudio using the following in command line:
 > conda install anaconda-navigator
+
 > conda install rstudio
+
 ## Use R to analyze bacterial growth rates
 - Download (or do a git pull for) the growth_rates.R script provided in Week 7 of the class GitHub page
 - Vary the time (year=n) by 1, 10, 30, 50, and 100 years
