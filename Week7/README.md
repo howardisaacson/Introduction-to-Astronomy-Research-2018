@@ -2,7 +2,8 @@ README:
 # Agenda:
 
 ### Hopward: Intro
-- Check-in
+- Check-in.
+- Python vs R. And how the academic astronomy world relates to Data Science
 
 ### Writing Exercise: 
 In your online notebooks, please spend 10 minutes responding to the following prompts:
