@@ -18,6 +18,16 @@ In this tutorial, you will:
 - Vary the environmental carrying capacity by 100, 1000, and 10000
 
 ## Analysis
+For any one of your runs, compute the following:
+1. Mean growth rate over time
+2. Maximum growth rate
+3. Minimum growth rate
+4. Mode of the growth rate over time
+5. Median of the growth rate over time
+
+Note, you have not been provided the code or taught the commands to perform these calculations. So, you must look up appropriate commands yourself and write the code. Good luck!
+
+## Discussion
 In your Google Drive notebook, upload your plots and answer the following questions:
 1. How does the time-scale affect the population size over time?
 2. How does initial population size affect the population size over time?
