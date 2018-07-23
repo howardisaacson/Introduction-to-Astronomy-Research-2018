@@ -82,7 +82,7 @@ An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014
 http://science.sciencemag.org/content/344/6181/277.full (Science Version)
 https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
 
-## Week 7 ( Group Leader: Sarah/Isabel) (week of July 23rd)
+## Week 7 ( Group Leader: Sarah/Alma) (week of July 23rd)
  *  Statistics: median/mean/mode/outlier rejection/errors in quadrature
  *  An Introduction to the programming language R in discussing habitability.
     * Installing R (https://discuss.analyticsvidhya.com/t/how-to-run-r-on-jupyter-ipython-notebooks/5512/2)
