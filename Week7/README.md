@@ -8,7 +8,11 @@ README:
 ### Writing Exercise: 
 In your online notebooks, please spend 10 minutes responding to the following prompts:
 
-    1. 
+    1. What did you learn from the tutorial about how Kepler finds planets and determines their properties?
+    
+    2. Where were statistics used in the Quintana (2014) paper?
+    
+    3. How can we use theory and modeling to learn about known exoplanets?
     
 ### Tutorials:
 1. Sarah: statistics
