@@ -6,7 +6,7 @@ README:
 - Python vs R. And how the academic astronomy world relates to Data Science
 
 ### Writing Exercise: 
-In your online notebooks, please spend 10 minutes responding to the following prompts:
+In your online notebooks, please spend 5 minutes responding to the following prompts:
 
     1. What did you learn from the tutorial about how Kepler finds planets and determines their properties?
     
