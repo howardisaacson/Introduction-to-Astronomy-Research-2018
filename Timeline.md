@@ -91,7 +91,7 @@ An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014
 http://science.sciencemag.org/content/344/6181/277.full (Science Version)
 https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
 
-## Week 9 ( Group Leader: Sarah) (week of July 30th) (Weeks 8 & 9 will be switched due to scheduling constraints)
+## Week 8 ( Group Leader: Sarah) (week of July 30th) (Weeks 8 & 9 will be switched due to scheduling constraints)
 * Begin Final Project: Research Proposal
 
 ### Paper of the week:
@@ -99,7 +99,7 @@ https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
 https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf 
 
 
-## Week 8 (Group Leader: Howard/Isabel) (week of July 30th)
+## Week 9 (Group Leader: Howard/Isabel) (week of August 6th)
 * High Resolution Spectra
   * examine many Keck/APF spectra: determine resolution 
      * Give examples of low, medium and high resolution spectra.
