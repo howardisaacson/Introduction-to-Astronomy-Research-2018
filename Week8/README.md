@@ -1,13 +1,14 @@
-README:
+# Agenda
+
+### Tutorial
+* Each of the mentors will discuss one of the research projects that they have worked on, focusing in on the initial question. This will be followed by the steps they used to move from the exploratory beginning to the middle and finally drawing conclusions.
 
 
+### Discussion of Research topics
+* We will come up with some exercises that will help the students form their own ideas for a research project.
 
-Move this to a later week.
-HIRES Introduction and analysis: \
-https://github.com/ylecoeuche/HIRES_analysis/blob/master/HIRES.ipynb \
-   Good for cloning
+### Writing Exercise
+* Students can begin by writing about their favorite discovery topic, transit, rv and direct imaging, and begin to write about what they like. This will be the first step in writing about a potential project that they would like to be involved in.
    
    
-https://github.com/UCBerkeleySETI/breakthrough/blob/master/APF/Tutorial/Tutorial%20-%20Work%20With%20APF%20Data%20%26%20Search%20for%20ETI%20Current.ipynb \
-   More detailed, but not as good for cloning
    
