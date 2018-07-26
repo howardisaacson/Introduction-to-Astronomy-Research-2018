@@ -91,24 +91,30 @@ An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014
 http://science.sciencemag.org/content/344/6181/277.full (Science Version)
 https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
 
-## Week 8 (Group Leader: Howard/Isabel) (week of July 30th)
-* High Resolution Spectra
-  * examine many Keck/APF spectra: determine resolution 
-  * (plot resolution as a function of wavelength), Use Haynes tutorial as a guide
-  
-### Paper of the week:
-"Life Outside the Solar System"  by Su-Shu Huang
-https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf (may be behind a pay wall)
-
-## Week 9 ( Group Leader: Sarah) (week of August 6th)
+## Week 9 ( Group Leader: Sarah) (week of July 30th) (Weeks 8 & 9 will be switched due to scheduling constraints)
 * Begin Final Project: Research Proposal
 
 ### Paper of the week:
 "Life Outside the Solar System"  by Su-Shu Huang
-https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf (may be behind a pay wall)
+https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf 
+
+
+## Week 8 (Group Leader: Howard/Isabel) (week of July 30th)
+* High Resolution Spectra
+  * examine many Keck/APF spectra: determine resolution 
+     * Give examples of low, medium and high resolution spectra.
+  * Cross Correlation: What is it and what does it tell us
+  * Determining Precise Radial Velocities.
+  * (plot resolution as a function of wavelength), Use Haynes tutorial as a guide
+  
+* Continue discussion of Research topics.
+
+### Paper of the week:
+"Life Outside the Solar System"  by Su-Shu Huang
+https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf 
 
 ## Week 10 (Group Leader: All) (week of August 13th)
-* Final Project: Research proposal.
+* Final Project: Research proposal discussion.
 
 ## Other:
 
