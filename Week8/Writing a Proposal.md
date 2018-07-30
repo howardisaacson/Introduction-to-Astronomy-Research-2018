@@ -48,6 +48,8 @@ http://sfp.caltech.edu/students/proposal/surf_and_amgen_proposals
 Or for a more in-depth overview:
 http://surf.berkeley.edu/sites/default/files/SURF%20STEM%20Proposal%20Writing%20Workshop%20Slides.2018.pdf
 
+And now with all you've learned, you're ready to draft your proposal! Don't forget to have fun with it- research proposals are an amazing opportunity to answer questions that no one knows the answer to, and you could be the first one. Good luck!
+
 
 
 
