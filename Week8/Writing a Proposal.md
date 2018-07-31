@@ -12,15 +12,11 @@ to become more feasible and impactful.
 
 ### 2. Outline how you will answer your question ###
 Think about what type of data or knowledge you will need in order to answer your research question. It may be helpful to research different 
-telescopes and instruments, or look at papers that have tackled similar research topics. 
+telescopes and instruments, or look at papers that have tackled similar research topics. For the purposes of this class, you don't need to worry too much about whether or not you have the proper time, resources, and resolution, and you can feel free to move on to #3. 
 
-Once you have found out the type of data and what you need to observe, make sure it is possible. 
+If you are writing a proposal for a real research project, one of your main concerns will be the feasibility of the project. In other words, once you have found out the type of data and what you need to observe, make sure it is possible. 
 Do you have the resolution you need? Does your project require a reasonable amount of data and observing time? 
 Are you able to mark out a path for how to solve it? 
-
-This is the part where your instructoes will be able to help you! While it is good for you to start thinking about these things,
-it is almost impossible to know all the answers the moment you think of a research question. At your one-on-one meetings with your 
-intructors, you will learn how to go about answering these tough but necessary questions.
 
 ### 3. Think about why your question is important ###
 Why is your question interesting? How does is tie in to research that has already been conducted in the field? What can we gain from knowing the 
