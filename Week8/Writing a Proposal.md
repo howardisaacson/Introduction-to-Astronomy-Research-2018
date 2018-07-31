@@ -26,8 +26,8 @@ intructors, you will learn how to go about answering these tough but necessary q
 Why is your question interesting? How does is tie in to research that has already been conducted in the field? What can we gain from knowing the 
 answer yo your question? 
 
-The answers to these questions can vary. It may be that you want to answer a theoretical question as broad as "how do planets form?",
-or as specific as "is there oxygen in the atmosphere of TRAPPIST-1d"? Your project can govern what we know about the fundamental physics 
+The answers to these questions can vary. It may be that you want to find clues that contribute to a broader theoretical question such as "how do planets form?",
+or learm something specific about a particular system- "is there oxygen in the atmosphere of TRAPPIST-1d"? Your project can govern what we know about the fundamental physics 
 of planet-star systems, or it can provide a small piece of information as part of a larger survey of planet and star properties.
 As long as it answers a question, it is helpful to the field as a whole!
 
