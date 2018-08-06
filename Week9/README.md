@@ -26,6 +26,10 @@ https://github.com/ylecoeuche/HIRES_analysis/blob/master/HIRES.ipynb
 ### Paper to discuss:
 "Life Outside the Solar System" by Su-Shu Huang https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf
 
-### Discussion of Research topics
+### Discussion of Research Topics
+- Any questions about final projects so far?
+- Reminder: Resources in Week 8 directory
+- Be prepared to spend 5 minutes next week explaining your idea to the class (no slides needed).
 
 ### Writing Exercise
+- Start work on an outline of your proposal, and/or start writing any section you want.
