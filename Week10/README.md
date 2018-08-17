@@ -18,3 +18,6 @@
 ### Writing Exercise
 - Please spend 5 minutes reflecting on your favorite part of the summer program, and describe the topics you found most useful.
 
+
+Teaching notes: We had each student produce one question on the paper, in the chat, in order to engage the students. Each student then read their question, and the mentors can answer accordingly.
+
