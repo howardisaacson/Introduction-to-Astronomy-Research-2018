@@ -24,7 +24,7 @@ Imaging Extrasolar Giant Planets (Bowler 2016)
  
 link to the paper:
 
-http://esoads.eso.org/abs/2016PASP..128j2001B (Science Version)
+http://esoads.eso.org/abs/2016PASP..128j2001B 
 
 
 # Assignments:
