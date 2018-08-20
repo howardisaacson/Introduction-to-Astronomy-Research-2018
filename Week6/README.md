@@ -17,25 +17,14 @@ In your online notebooks, please spend 10 minutes responding to the following pr
 1. Isabel: Downloading, analyzing and plotting Kepler Data with the Kepler Photometry Tutorial
 
 ### Paper of the Week:
-An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014)
+  
+Imaging Extrasolar Giant Planets (Bowler 2016)
 
-*description: This paper does a great job of describing in detail how Kepler planets are found and confirmed. It also provides meaningful contributions to ongoing conversations about astrobiology and exoplanet habitability.*  
+*description: The Bowler (2016) exoplanet paper remains a classic paper because of it's thorough and complete recap of directly imaged planets at that time. We will discuss some of the highlights of the paper. Be prepared with questions that you encountered when reading the paper and everyone should be prepared to discuss one interesting point from the paper.*  
  
 link to the paper:
 
- http://science.sciencemag.org/content/344/6181/277.full (Science Version)
- 
- https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
- 
- Questions to think about as you read:
- 
- (1) What properties (mass, radius, composition, temperature, etc.) can we learn about exoplanets from *Kepler*?
- 
- (2) What are the shortcomings of *Kepler*? What properties are we not able to learn about planets from transit data alone?
- 
- (3) What factors do we look for to determine if a planet is "habitable"?
- 
- (4) What are some next steps we can take after discovering a *Kepler* planet to learn more about it's properties?
+http://esoads.eso.org/abs/2016PASP..128j2001B (Science Version)
 
 
 # Assignments:
