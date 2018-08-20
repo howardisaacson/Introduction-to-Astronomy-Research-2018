@@ -1,5 +1,6 @@
 # Writing a Research Proposal #
 By: Isabel Angelo (2018)
+
 Here are some basic guidelines on how to write a good research proposal.
 
 ### 1. Choose a topic and question to answer ###
