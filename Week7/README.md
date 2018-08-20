@@ -25,9 +25,8 @@ In your online notebooks, please spend 5 minutes responding to the following pro
 
 
 ### Paper of the Week:
-An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014)
- * Science: http://science.sciencemag.org/content/344/6181/277.full
- * ArXiv: https://arxiv.org/pdf/1404.5667.pdf
+Imaging Extrasolar Giant Planets (Bowler 2016)
+ * ADS: http://esoads.eso.org/abs/2016PASP..128j2001B
 
 
 # Assignments:
