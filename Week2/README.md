@@ -71,23 +71,4 @@ on discoveries made by NASA's Kepler Mission came to some amazing conclusions. T
 "Occurrence and core-envelope structure of 1–4x Earth-size planets around Sun-like stars"
 https://arxiv.org/pdf/1404.2960.pdf
 
-How to find scientific papers: Use Astrophysics Data System or ADS:
-https://ui.adsabs.harvard.edu
-
-Mendeley is a great application to track the many scientific papers that you will use throughout your careers.
-https://www.mendeley.com
-
-During class, we discussed this paper, which uses direct imaging to discover and confirm and exoplanet:
-https://arxiv.org/pdf/1509.07514.pdf
-
-
-
-For your assignment this week, please read the paper of the week (NOT the above paper, although you can read it if you'd like!) thoroughly. Try to observe the following note-taking strategy (or use something similar that works for you):
-- highlight words you don't know in one color. Look up their definitions and write them down as in-text notes as you read.
-- highlight key ideas in another color.
-- keep a general note with summaries of each paragraph
-- keep a general note with summaries of each section
-- keep a note with 10-word or less summaries of each figure
-- keep a note with overall questions you have about the paper. Some of these you may resolve as you read-- once you've finished reading the paper, revisit this note and see how many of your own questions you can answer!
-
-Once you've read the whole paper, post 2-3 remaining questions you have on our class piazza page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
+For an introduction on how to find, download, and read scientific papers, see science_papers_intro.md
