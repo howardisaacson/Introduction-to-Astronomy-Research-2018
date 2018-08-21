@@ -26,12 +26,12 @@ link to the paper:
  
  https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
  
-For tips and information on presenting this paper, see our week 4/5 [paper tips](https://github.com/howardisaacson/Introduction-to-Astronomy-Research/blob/master/Week4/paper_tips.md) (available in this week;s github)
+For tips and information on presenting this paper, see our week 4/5 [paper tips](https://github.com/howardisaacson/Introduction-to-Astronomy-Research/blob/master/Week4/paper_tips.md) (available in this week's github)
 
 
 # Assignments:
 
 1. Upload your plots from the NASA Exoplanet Archive data and Gaia tutorials to your student folder Google Drive
 2. Check your work from last week against the tutorial answer keys (posted in week 3 folder)
-3. Finish reading [Bowler et al. 2016](https://arxiv.org/pdf/1605.02731.pdf) (over the next two weeks)
+3. Finish reading [Quintana et al. 2014](https://arxiv.org/pdf/1404.5667.pdf) (over the next two weeks)
 4. Complete Ruben's & Sarah's RadVel tutorial.
