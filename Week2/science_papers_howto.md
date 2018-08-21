@@ -1,4 +1,4 @@
-### Introduction to Reading Scientific Papers ###
+# Introduction to Reading Scientific Papers #
 This introduction goes through the basics of how to effectively read a scientific paper. We also provide some resources that are commonly used in asronomy to make find. reading, and storing papers much easier.
 
 ## How to find scientific papers: ##
