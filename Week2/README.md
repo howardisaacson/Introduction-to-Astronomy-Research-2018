@@ -6,7 +6,7 @@ Google Hangout. (Contact Details to be sent out before meeting)
 ## Agenda: (Because a meeting without an agenda is no meeting at all).
 
 0) Announcement about Piazza:
-   - [Piazza](piazza.com) is a free service for students to communicate with instructors and with each other. 
+   - [Piazza](https://piazza.com/) is a free service for students to communicate with instructors and with each other. 
    - You should have received an email invitation to join our private Piazza group.
    - If you have questions about assignments, readings, etc. (either logisitical or technical), please post them on Piazza.
    - There is an option to post anonymously. 
