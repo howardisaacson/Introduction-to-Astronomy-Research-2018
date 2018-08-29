@@ -1,5 +1,3 @@
-README:
-
 ## Meeting Time: 5:30pm Tuesday June 18th 2018. 
 Google Hangout. (Contact Details to be sent out before meeting)
 
@@ -81,3 +79,5 @@ https://docs.scipy.org/doc/scipy/reference/tutorial/basic.html
 https://arxiv.org/pdf/1404.2960.pdf
 
 Take the next two weeks to read and digest this paper. Refer to our [Introduction to Reading Scientific Papers](https://github.com/howardisaacson/Introduction-to-Astronomy-Research/blob/master/Week2/science_papers_intro.md) guide for advice!
+
+Post 2-3 questions you have about this paper on our class Piazza page. In addition, please answer at least one of your classmates' questions. You can do this anonymously if you'd like!
