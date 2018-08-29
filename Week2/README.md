@@ -14,21 +14,27 @@ Google Hangout. (Contact Details to be sent out before meeting)
    - Make sure you familiarize yourself with the Piazza platform this week.
 
 1) Review/Checkin from last week:
+   - How did the tutorials go?
+   - What should the instructors do differently this week?
 
-2) Short Tutorial on IPython, Jupyter, and git.
-   - Git clone this repository.
-   - Show advantage of Jupyter, Jupyter labs over Ipython.
-   - Quick overview of Scipy, Astropy
+2) Short Tutorial on IPython, Jupyter, and git. Instructor screenshares, and:
+   - Git clones this repository.
+   - Shows how to open a Jupyter notebook in this repository from the command line.
+   - Opens iPython, and executes a few commands. 
+   - Gives their 2 cents on when to use iPython, when to use Jupyter, and when to write a script.
+   - Explains the purpose of Scipy and Astropy, and (if time) executes a few commands in each package.
 
 3) How to read a scientific paper
+   - See [Introduction to Reading Scientific Papers](https://github.com/howardisaacson/Introduction-to-Astronomy-Research/blob/master/Week2/science_papers_intro.md).
+   - Instructor goes through the abstract, introduction, and figures of [this paper](https://arxiv.org/pdf/1509.07514.pdf) with students, explaining in detail their method for reading scientific papers. 
 
-3) Writing prompt   
-
-## Assignments for this Week:
+4) Writing prompt
 
 ### Writing Prompt
 
-This week, please spend 10-15 minutes of your own time assessing your progress by writing in your online notebooks. Did you complete as many of the assignments as you wanted to last week? Are you happy with your progress? What will you do similarly and differently this week? What are the most important things you learned last week?
+Please spend 10-15 minutes of your own time assessing your progress by writing in your online notebooks. Did you complete as many of the assignments as you wanted to last week? Are you happy with your progress? What will you do similarly and differently this week? What are the most important things you learned last week?
+
+## Assignments for this Week:
 
 ### Numpy:
 
@@ -71,10 +77,7 @@ https://docs.scipy.org/doc/scipy/reference/tutorial/basic.html
 
 
 ### Paper of the week:
-During my time as a researcher in Astronomy. Those astronomers using ground based telescopes to follow up
-on discoveries made by NASA's Kepler Mission came to some amazing conclusions. They are summarized here:
-
 "Occurrence and core-envelope structure of 1–4x Earth-size planets around Sun-like stars"
 https://arxiv.org/pdf/1404.2960.pdf
 
-Learn about how to find, download, and read scientific papers with our [Introduction to Reading Scientific Papers](https://github.com/howardisaacson/Introduction-to-Astronomy-Research/blob/master/Week2/science_papers_intro.md)!
+Take the next two weeks to read and digest this paper. Refer to our [Introduction to Reading Scientific Papers](https://github.com/howardisaacson/Introduction-to-Astronomy-Research/blob/master/Week2/science_papers_intro.md) guide for advice!
