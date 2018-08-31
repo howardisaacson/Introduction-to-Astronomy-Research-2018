@@ -27,6 +27,7 @@ Google Hangout. (Contact Details to be sent out before meeting)
    - Instructor goes through the abstract, introduction, and figures of [this paper](https://arxiv.org/pdf/1509.07514.pdf) with students, explaining in detail their method for reading scientific papers. 
 
 4) Writing prompt
+   - Please create a Google Drive and share it with the instructors. Please keep all of your writing responses, completed tutorials, notes, etc. in this Drive.
 
 ### Writing Prompt
 
