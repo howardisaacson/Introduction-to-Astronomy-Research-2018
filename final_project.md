@@ -49,6 +49,6 @@ You will receive comments from all instructors once you submit your final propos
 
 This assignment is modeled after the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) proposal application essays. For many excellent example NSF essays, see [Alex Lang’s website](http://www.alexhunterlang.com/nsf-fellowship#TOC-Examples-of-Successful-Essays) (click on any “proposal” link in the table). Your proposals should be shorter than the NSF proposals, but other than that, you can model yours exactly after the NSF ones. 
 
-Isabel has compiled a list of advice for writing an effective proposal here. 
+Isabel has compiled a list of advice for writing an effective proposal [here](https://github.com/howardisaacson/Introduction-to-Astronomy-Research/blob/master/Week9_ADS_research_project/Writing%20a%20Proposal.md). 
 
-In addition, the next two pages provide an awesome quick overview of proposal writing. There are many other excellent proposal-writing resources online. Please read through as many of them as is helpful!
+There are many other excellent proposal-writing resources online. I like [this one](https://www.mhc.ab.ca/services/academicsupport/~/media/a6c5e5b4dc184e8d8c72d72ec7032a2c.ashx) in particular. Please read through as many of them as is helpful!
