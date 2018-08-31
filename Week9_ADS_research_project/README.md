@@ -1,12 +1,17 @@
 # Agenda
-- Motivation
-- ADS overview
-- Discussion of Final Reserach project.
+- ADS/arXiv Review
+- Discussion of Final Reserach Project
 
 ### Tutorial: Using SAO/NASA ADS
-The Abstract data service is used by Astronomers and other researchers to follow current research and find past research articles that will be cited in their work and used as references. The new web interface for the ADS is a user friendly and efficient way to search refereed and ArXiv research articles by title, author, abstract and date.
+Instructor reviews how to use NASA ADS and arXiv over screen share.
 
-### Discussion of Final Research Project
+### Discussion of Research Topics
+- Any questions about final projects so far?
+- Reminder: Resources in Week 8 directory
+- Be prepared to spend 5 minutes next week explaining your idea to the class (no slides needed).
+
+### Writing Exercise
+- Start work on an outline of your proposal, and/or start writing any section you want.
    
    
    
