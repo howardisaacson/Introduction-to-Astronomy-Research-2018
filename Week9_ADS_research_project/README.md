@@ -9,6 +9,7 @@ Instructor reviews how to use NASA ADS and arXiv over screen share.
 - Any questions about final projects so far?
 - Reminder: Resources in Week 8 directory
 - Be prepared to spend 5 minutes next week explaining your idea to the class (no slides needed).
+- Go over the "Writing a Proposal" document in this directory.
 
 ### Writing Exercise
 - Start work on an outline of your proposal, and/or start writing any section you want.
