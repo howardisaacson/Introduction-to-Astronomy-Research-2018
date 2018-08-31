@@ -3,7 +3,7 @@
 - Motivation
 - HIRES tutorial
 - Paper discussion
-- Discussion of final projects
+- Introduce final project
 - http://urap.berkeley.edu
 
 ### Tutorial
@@ -21,6 +21,9 @@ the independent tuttorial:
 
 HIRES Introduction and analysis: 
 https://github.com/ylecoeuche/HIRES_analysis/blob/master/HIRES.ipynb 
+
+### Final Project
+* Go through project assignment in root directory.
 
 ### Writing Exercise
 * List all the techniques you have learned or developed for effectively reading a scientific paper.
