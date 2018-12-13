@@ -46,3 +46,7 @@ Astronomers conduct much of their reading online, but a good collection of books
     * https://ui.adsabs.harvard.edu/#abs/2017AJ....153..162A/abstract
   * "A Case for an Atmosphere on Super-Earth 55 Cancri e" UC Berkeley undergrad, Isabel Angelo
     * https://ui.adsabs.harvard.edu/#abs/2017AJ....154..232A/abstract
+    
+    
+* Resources:
+   * Exoplanet data analysis in python: https://exoplanet.dfm.io/en/latest/
