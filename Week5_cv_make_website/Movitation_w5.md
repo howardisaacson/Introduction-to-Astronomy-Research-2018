@@ -18,7 +18,7 @@ attended and papers that you have wrtitten or to which you have contributed.
 Astronomy, now more than ever, is a collaborative science. While the history of astronomy is filled with romantic mountain top observatories 
 built in remote outposts, and solitary scientists toiling late at night, this practice is fading away (but not gone yet). 
 As the techincal requirements of missions become more and more complicated and large investments are spent on monolithic projects such as 
-the James Webb Space Telescope, and Gaia missions, among others, collaboration and the ability to get along with you colleagues is 
+the James Webb Space Telescope, and Gaia missions, among others, collaboration and the ability to get along with your colleagues is 
 becoming not just a desired quality for employers, but a requirement. The Hubble Space telescope employs over 50 people just to support the 
 telescope, not to mention the hundreds of scientists who apply for time every proposal cycle. The Kepler Space Telescope and recently launhced 
 TESS mission have similar numbers of collabortors. In an extreme example of large collaborations, the LIGO collaboration has over 1200 
