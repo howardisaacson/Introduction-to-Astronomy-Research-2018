@@ -10,8 +10,8 @@ part will be putting those words into action. Stay tuned!
 
 --
 
-One of the challenges that I have experienced while working in Astronomy is dealing 
-with the fact that I am surrounded by really smart people. In nearly any topic, including
+And now to discuss one of the challenges that I have experienced while working in Astronomy. Being 
+surrounded by really smart people. In nearly any topic, including
 one that I feel very confident in discussing, there is always somebody who has more exprience,
 or has thought of something that I missed.
 
